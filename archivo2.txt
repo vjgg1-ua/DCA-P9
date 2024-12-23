@@ -3,3 +3,5 @@ Archivo de pruebas 2
 Cambio para "error"
 
 Nuevo commit tras dos en la primera rama
+
+Nuevo commit para probar el hook de que no deje meter un commit vacio
