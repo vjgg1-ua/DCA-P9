@@ -1,1 +1,3 @@
 Archivo de pruebas 2
+
+Cambio para "error"
